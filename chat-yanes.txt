@@ -2,3 +2,4 @@
 "que es abstraccion" 
 "que es poo" 
 "que es sijeto" 
+"que es codigo" 
