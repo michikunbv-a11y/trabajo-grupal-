@@ -5,3 +5,4 @@
 "que es codigo" 
 "Una base de datos es un sistema organizado de informaci¢n o datos estructurados que se almacena de forma electr¢nica en un sistema inform tico o servidor. Funciona como un dep¢sito digital dise¤ado para recopilar, administrar, consultar y actualizar grandes vol£menes de informaci¢n de manera r pida y segura." 
 "Una base de datos es un sistema estructurado de almacenamiento digital dise¤ado para recopilar, organizar, consultar y actualizar grandes vol£menes de informaci¢n de manera eficiente y segura." 
+"Un error de sintaxis ocurre cuando el c¢digo viola las reglas gramaticales de un lenguaje de programaci¢n, impidiendo que el compilador o int‚rprete lo traduzca o ejecute" 
